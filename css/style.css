@@ -1,0 +1,98 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "Times New Roman", Times, serif;
+}
+body{
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.container{
+	padding: 0;
+	margin: 0;
+}
+ .liste ul {
+ 	float: right;
+ }
+ .liste ul li a{
+ 	text-decoration: none;
+ 	color: black;
+ }
+ .liste ul li a:hover{
+ 	text-decoration: underline;;
+ }
+ .liste ul li a img:hover{
+ 	background-color: blue;
+ }
+ .liste ul li a button:hover{
+ 	background-color: rgb(120, 144, 156);
+ }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
+
+img{
+	width: 200px;
+	height: 90px;
+	margin-left: 40%;
+	padding-:0;
+}
+.image{
+	margin-top: 40px;
+	padding-top: 60px; 
+	margin-bottom: 30px;
+}
+.zone_texte{
+	margin-right: 25%;
+}
+.zone_texte img{
+	width: 20px;
+	height: 20px;
+}
+.bouton{
+	padding: 50px;
+	margin-left:440px;
+	padding-top: 30px;
+}
+
+.para  p{
+	font-size: 15px;
+	margin-left: 500px;
+	padding: 0;
+}
+.para  a{
+	text-decoration: none;
+}
+.para  a:hover{
+	text-decoration: underline;
+}
+.lien{
+	padding: 30px;
+	margin-top: 105px;
+	padding: 30px;
+	background-color: rgb(242,242,242,0);
+}
+.lien ul li a{
+	color: rgb(104, 130, 185);
+	margin: 10px;
+	padding-top: 50px;
+	text-decoration: blink;
+}
+.lien ul li a:hover{
+	color: rgb(122, 166, 211);
+	text-decoration: underline;
+}
+.lian{
+	padding-left: 30px;
+	float: right;
+}
